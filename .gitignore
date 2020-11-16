@@ -1,7 +1,8 @@
 # Views ignores
 /Gameoff2020/Assets/Views/*
 !/Gameoff2020/Assets/Views/symlinkdata.txt
-!/Gameoff2020/Assets/Views/symlinker.bat
+!/Gameoff2020/Assets/Views/symlinker.ps1
+!/Gameoff2020/Assets/Views/link.bat
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
