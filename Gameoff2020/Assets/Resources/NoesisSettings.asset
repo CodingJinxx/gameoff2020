@@ -27,7 +27,7 @@ MonoBehaviour:
   linearRendering: 0
   previewEnabled: 1
   debugImporter: 0
-  hotReloading: 0
+  hotReloading: 1
   logVerbosity: 0
   AppStarting:
     Texture: {fileID: 0}

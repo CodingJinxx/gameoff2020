@@ -21,6 +21,7 @@ namespace Menu
 
             DataContext = new ViewModel();
         }
+        
 
 #if NOESIS
         private void InitializeComponent()
