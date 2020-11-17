@@ -1,3 +1,20 @@
+# Views ignores
+/Gameoff2020/Assets/Views/*
+!/Gameoff2020/Assets/Views/symlinkdata.txt
+!/Gameoff2020/Assets/Views/symlinker.ps1
+!/Gameoff2020/Assets/Views/link.bat
+
+# Keeping GUI
+!Blend/*.sln
+!Blend/*.csproj
+!Blend/**/*.sln
+!Blend/**/*.csproj
+
+!Shared/*.sln
+!Shared/*.csproj
+!Shared/**/*.sln
+!Shared/**/*.csproj
+
 
 
 # Rider ignore
@@ -62,21 +79,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
-# Views ignores
-/Gameoff2020/Assets/Views/*
-!/Gameoff2020/Assets/Views/symlinkdata.txt
-!/Gameoff2020/Assets/Views/symlinker.ps1
-!/Gameoff2020/Assets/Views/link.bat
-
-# Keeping GUI
-!Blend/*.sln
-!Blend/*.csproj
-!Blend/**/*.sln
-!Blend/**/*.csproj
-
-!Shared/*.sln
-!Shared/*.csproj
-!Shared/**/*.sln
-!Shared/**/*.csproj
 
