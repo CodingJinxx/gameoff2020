@@ -1,0 +1,6 @@
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Assets\Libraries\Shared\Shared.dll
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Assets\Libraries\Shared\Shared.pdb
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Shared\obj\Debug\Shared.dll
+C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Shared\obj\Debug\Shared.pdb

@@ -2,4 +2,4 @@
 
 @setlocal enableextensions
 @cd /d "%~dp0"
-mklink /D Menu ..\..\Blend\Menu\Menu\Assets
+mklink /D ButtonMenu ..\..\Blend\ButtonMenu\ButtonMenu\Assets

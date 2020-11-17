@@ -1,0 +1,8 @@
+﻿<Application x:Class="ButtonMenu.App"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:local="clr-namespace:ButtonMenu"
+  StartupUri="/ButtonMenu;component/ButtonMenu/Assets/MainWindow.xaml">
+  <Application.Resources>
+  </Application.Resources>
+</Application>
