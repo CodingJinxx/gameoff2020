@@ -13,9 +13,10 @@ namespace Menu
 {
     public class ViewModel : INotifyPropertyChanged
     {
-        public ICommand StartButton { get; set; }
-        public ICommand OptionsButton { get; set; }
-        public ICommand ExitButton { get; set; }
+        public ICommand Button { get; private set; }
+        // public ICommand StartButton { get; set; }
+        // public ICommand OptionsButton { get; set; }
+        // public ICommand ExitButton { get; set; }
 
         public string DebugText
         {
@@ -31,9 +32,15 @@ namespace Menu
 
         public ViewModel()
         {
-            StartButton = new DelegateCommand((i) => { execStartButton(); } );
-            OptionsButton = new DelegateCommand((i) => { execOptionsButton(); });
-            ExitButton = new DelegateCommand((i) => { execExitButton(); });
+            Button = new DelegateCommand((i) => {execButton();});
+            // StartButton = new DelegateCommand((i) => { execStartButton(); } );
+            // OptionsButton = new DelegateCommand((i) => { execOptionsButton(); });
+            // ExitButton = new DelegateCommand((i) => { execExitButton(); });
+        }
+
+        private void execButton()
+        {
+            DebugText = "Button Pressed";
         }
 
         private void execStartButton()

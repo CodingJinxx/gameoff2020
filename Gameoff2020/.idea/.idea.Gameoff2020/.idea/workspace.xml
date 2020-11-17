@@ -19,56 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0991acf-4b2d-43eb-9f55-dfa552df6eb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NoesisSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/NoesisSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/ViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/ViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/bin/Debug/Menu.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/bin/Debug/Menu.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.g.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.baml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.i.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.i.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/34/34bc0a2a699118d8cc84d3cb7948dfc7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/71/71f9d1d9c8ab720f67c69e432a55f80f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e3/e3721093c793466c18c99c8aca7727c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InputSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InputSystem.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/ca/ca923daf5b138c2596f60ab6e7f603f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/ca/ca923daf5b138c2596f60ab6e7f603f4.json" afterDir="false" />
-    </list>
+    <list default="true" id="d0991acf-4b2d-43eb-9f55-dfa552df6eb6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +28,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Classes/InputTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Views/Menu/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ButtonViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModelBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Classes/DelegateCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Views/Menu/MainWindow.xaml" />
       </list>
     </option>
   </component>
@@ -107,19 +73,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1368">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="1368" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1368">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="1368" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -137,6 +103,9 @@
       <workItem from="1605545000411" duration="1272000" />
       <workItem from="1605556688904" duration="1174000" />
       <workItem from="1605558031106" duration="1933000" />
+      <workItem from="1605570837679" duration="5373000" />
+      <workItem from="1605607293935" duration="369000" />
+      <workItem from="1605612931060" duration="239000" />
     </task>
     <servers />
   </component>
@@ -229,32 +198,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state x="775" y="220" key="RiderGenerateDialog" timestamp="1605558169901">
+    <state x="775" y="220" key="RiderGenerateDialog" timestamp="1605572261641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="775" y="220" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605558169901" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605557649970">
+    <state x="775" y="220" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605572261641" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605574126283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605557649970" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Classes/InputTest.cs</url>
-          <line>46</line>
-          <properties documentPath="C:\Users\Jay\Desktop\gameoff2020\Gameoff2020\Assets\Scripts\Classes\InputTest.cs" initialLine="46">
-            <startOffsets>
-              <option value="924" />
-            </startOffsets>
-            <endOffsets>
-              <option value="954" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605574126283" />
   </component>
 </project>
