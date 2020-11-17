@@ -3,13 +3,16 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 using System.Windows.Input;
+using MonoBehaviours;
 using MonoBehaviours.ViewModels;
+using Shared.Classes;
+using Shared.Classes.Models;
 using UnityEngine;
 
 [RequireComponent(typeof(Animator))]
 public class AnimationTest : MonoBehaviour
 {
-    [SerializeField] private ButtonViewModel viewModel;
+    [SerializeField] private ButtonMenuVM vm;
 
     private Animator anim;
     private bool buttonPressed;
@@ -22,11 +25,11 @@ public class AnimationTest : MonoBehaviour
     }
     void Start()
     {
-        viewModel.ButtonEvents += (o, e) => buttonPressedCallback();
+        vm.Instance.OnButtonPress += (o, e) => buttonPressedCallback();
     }
 
     private void buttonPressedCallback()
     {
-        anim.SetBool("isPressed", viewModel.IsButtonPressed);
+        anim.SetBool("isPressed", vm.Instance.IsButtonPressed);
     }
 }

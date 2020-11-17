@@ -17,10 +17,12 @@
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
+      <Path>.vs</Path>
       <Path>Blend</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>NoesisDoc</Path>
+      <Path>Shared</Path>
       <Path>UserSettings</Path>
       <Path>obj</Path>
     </explicitExcludes>

@@ -288,6 +288,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194230}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -385,6 +386,19 @@ MonoBehaviour:
   _enableGamepad: 0
   _emulateTouch: 0
   _useRealTimeClock: 0
+--- !u!114 &963194230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d15c2189fa74d608e064f7ddc54f9ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vm: {fileID: 1997357283}
 --- !u!1001 &1076966184
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -478,7 +492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cf8498234b47cb43a06adbd8fb3f8af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  viewModel: {fileID: 1997357283}
+  vm: {fileID: 1997357283}
 --- !u!1 &1997357282
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,10 +519,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1997357282}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2fc503a6a99a4be40a2154d4e5e05907, type: 3}
+  m_Script: {fileID: 11500000, guid: cda1a1a7ff4c4e8186f546e48daeb84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  view: {fileID: 963194229}
 --- !u!4 &1997357284
 Transform:
   m_ObjectHideFlags: 0

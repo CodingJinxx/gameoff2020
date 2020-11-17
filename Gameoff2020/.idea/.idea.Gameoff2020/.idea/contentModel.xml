@@ -1099,22 +1099,21 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Classes" t="Include">
-            <e p="DelegateCommand.cs" t="Include" />
-          </e>
           <e p="MonoBehaviours" t="Include">
             <e p="AnimationTest.cs" t="Include" />
-            <e p="ViewModelBase.cs" t="Include" />
+            <e p="DataContextAssignment.cs" t="Include" />
+            <e p="DataContextAssignments" t="Include">
+              <e p="ButtonMenuDTA.cs" t="Include" />
+            </e>
+            <e p="ViewModelInstance.cs" t="Include" />
             <e p="ViewModels" t="Include">
-              <e p="ButtonViewModel.cs" t="Include" />
-              <e p="IButtonModel.cs" t="Include" />
+              <e p="ButtonMenuVM.cs" t="Include" />
             </e>
           </e>
         </e>
         <e p="Views" t="Include">
-          <e p="Menu" t="Include">
+          <e p="ButtonMenu" t="Include">
             <e p="MainWindow.xaml.cs" t="Include" />
-            <e p="ViewModel.cs" t="Include" />
           </e>
         </e>
       </e>

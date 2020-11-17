@@ -19,7 +19,121 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0991acf-4b2d-43eb-9f55-dfa552df6eb6" name="Default Changelist" comment="" />
+    <list default="true" id="d0991acf-4b2d-43eb-9f55-dfa552df6eb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Libraries/Shared.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Libraries/Shared/Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Libraries/Shared/Shared.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignment.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignments.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignments/ButtonMenuDTA.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignments/ButtonMenuDTA.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelInstance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelInstance.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonMenuVM.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.xaml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/ViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/bin/Debug/ButtonMenu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/bin/Debug/ButtonMenu.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/bin/Debug/Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu/Assets/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu/Assets/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu/Assets/MainWindow.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/ButtonMenu_MarkupCompile.i.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blend/ButtonMenu/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/Classes/DelegateCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/Classes/Models/ButtonMenuModelBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/Classes/ViewModelBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/Interface/Models/IButtonModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/Shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/Shared.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shared/obj/Debug/Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gameoff2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Source/button.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Source/button.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Source/button.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Source/button.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Classes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Classes/DelegateCommand.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Classes/DelegateCommand.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Blend/ButtonMenu/ButtonMenu/Assets/MainWindow.xaml.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignment.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Views/link.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Views/link.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/App.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/App.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/MainWindow.xaml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/ViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/Assets/ViewModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Menu/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/App.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/App.g.i.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu.g.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.baml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu/Assets/MainWindow.g.i.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/obj/Debug/Menu_MarkupCompile.i.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blend/Menu/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Zenject-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Zenject-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Zenject.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Zenject.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +143,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonMenuVM.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,22 +156,32 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ButtonViewModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/IButtonModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModelBase.cs" />
-        <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Classes/DelegateCommand.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Views/Menu/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/Assets/Views/Menu/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Views/ButtonMenu/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModelInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonMenuViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/AnimationTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/ViewModels/ButtonMenuVMcs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Views/ButtonMenu/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours/DataContextAssignments/ButtonMenuDTA.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1kNdPcAF9pQpUdJtpNUOJZGL5wp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -73,10 +196,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="21480">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="21480" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -106,6 +229,7 @@
       <workItem from="1605570837679" duration="5373000" />
       <workItem from="1605607293935" duration="369000" />
       <workItem from="1605612931060" duration="239000" />
+      <workItem from="1605616918788" duration="11184000" />
     </task>
     <servers />
   </component>
@@ -127,6 +251,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -134,69 +259,89 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605557690400" />
-    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="637" height="466" key="DebuggerActiveHint" timestamp="1605632424364">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="637" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632424364" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1605559976812">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976812" />
-    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
-    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1605559976813">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1605632689058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605632689058" />
     <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605559976813" />
     <state x="775" y="220" key="RiderGenerateDialog" timestamp="1605572261641">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -206,5 +351,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605574126283" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#MonoBehaviours.ViewModelInstance`1" memberName="Instance" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

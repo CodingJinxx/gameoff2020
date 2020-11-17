@@ -4,6 +4,13 @@
 !/Gameoff2020/Assets/Views/symlinker.ps1
 !/Gameoff2020/Assets/Views/link.bat
 
+# Keeping GUI
+!Blend/*.sln
+!Blend/*.csproj
+
+!Shared/*.sln
+!Shared/*.csproj
+
 # Rider ignore
 .idea/
 
