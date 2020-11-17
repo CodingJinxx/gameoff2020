@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637412095362805821
+      ticks: 637412361259105144
     m_Hash: 1595539787
   m_LockFileStatus:
     m_FilePath: C:/Users/Jay/Desktop/gameoff2020/Gameoff2020/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637412095362810820
+      ticks: 637412361259110139
     m_Hash: 962927623
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
