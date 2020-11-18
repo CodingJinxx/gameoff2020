@@ -286,7 +286,7 @@ MonoBehaviour:
     m_Value: 0
   hdriSky:
     m_OverrideState: 1
-    m_Value: {fileID: 8900000, guid: f76c982f5a5f1df42a93587a68f53fc0, type: 3}
+    m_Value: {fileID: 8900000, guid: 878d5e78e5d6e574f9bbff73c46bd69b, type: 3}
   enableBackplate:
     m_OverrideState: 0
     m_Value: 0
